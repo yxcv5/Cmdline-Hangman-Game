@@ -1,0 +1,28 @@
+{
+  "name": "cmdline-hangman-game",
+  "version": "1.0.0",
+  "description": "a command line hangman game",
+  "main": "hangman-cml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxcv5/Cmdline-Hangman-Game.git"
+  },
+  "keywords": [
+    "hangman",
+    "game",
+    "node",
+    "app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yxcv5/Cmdline-Hangman-Game/issues"
+  },
+  "homepage": "https://github.com/yxcv5/Cmdline-Hangman-Game#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
